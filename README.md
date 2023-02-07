@@ -28,7 +28,7 @@ This repository contains the code and experiments for the manuscript.
 ## FedNets Generation
 - Run: `cd <PATH_TO_THE_CLONED_REPO>/scripts/`.
 - Run: `python edge_client_api.py`
-- Open a new terminal (make sure that the virtualenv is activated and you still in `<PATH_TO_THE_CLONED_REPO>/scripts/`).
+- Open a new terminal (make sure that the virtualenv is activated and you still in `<PATH_TO_THE_CLONED_REPO>/scripts/`.
 - Run `./main_commands.sh`. The output of the scripts is stored in 'python_output.txt'
 
 
