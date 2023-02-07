@@ -8,7 +8,7 @@ import shutil
 from typing import KeysView
 
 parent_dir = "./cluster_folder/"
-pruning_folder = "./all_pruned_models/"
+pruning_folder = "./pruned_models/"
 
 def file_browser(directory_name):
   return [model for model in glob.glob(directory_name + "*.h5")]
