@@ -24,7 +24,7 @@ This repository contains the code and experiments for the manuscript.
 - Create a new folder 'cluster_folder'.
 - Run: `python generate_cluster.py`; the output of this command is a CSV file 'acc_results.csv'
 - Run `python cluster_acc_createFolders.py` to generate a folder that divides the pruned models into different folders (based on the resulted clusters). The number of folders refers to the number of clusters.
-- Copy the content of the following folder: 'cluster_folder' to `<PATH_TO_THE_CLONED_REPO>/scripts/clients/`.
+- Copy the content of the following folder: 'cluster_folder' to `<PATH_TO_THE_CLONED_REPO>/scripts/clients/`. If 'clients' folder does not exist, then create it.
 ## FedNets Generation
 - Run: `cd <PATH_TO_THE_CLONED_REPO>/scripts/`.
 - Run: `python edge_client_api.py`
