@@ -17,7 +17,7 @@ This repository contains the code and experiments for the manuscript.
 - Create a new folder 'pruned_models'.
 - Run: `python generate_hyperparams.py`; this will generate a CSV file 'constant_spar_hyperparams.csv'.
 - Run: `python constant_sparsity.py`; this will generate a pool of pruned models in 'pruned_models' folder. 
-- Copy the the folder'pruned_models' to `<PATH_TO_THE_CLONED_REPO>/ensyth_pool/clustering/`.
+- Copy the the folder 'pruned_models' to `<PATH_TO_THE_CLONED_REPO>/ensyth_pool/clustering/`.
 
 ## Ensemble Pruning
 - Run: `cd <PATH_TO_THE_CLONED_REPO>/ensyth_pool/clustering/`.
