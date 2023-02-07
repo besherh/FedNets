@@ -19,4 +19,5 @@ This repository contains the code and experiments for the manuscript:
 - Run: `cd <PATH_TO_THE_CLONED_REPO>/ensyth_pool/clustering/`.
 - Run: `python generate_cluster.py`; the output of this command is a CSV file 'acc_results.csv'
 - Run `python cluster_acc_createFolders.py` to generate a folder that divides the pruned models into different folders (based on the resulted clusters). The number of folders refer to the number of clusters.
+- Copy the content of the following folder: 'cluster_folder' to `cd <PATH_TO_THE_CLONED_REPO>/scripts/clients/`.
 
