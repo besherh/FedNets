@@ -6,7 +6,7 @@ This repository contains the code and experiments for the manuscript.
 ## Accuracy Results goes here ( add the figures from the paper)
 
 # Installation
-- Create a virtual environment with conda/virtualenv.
+- Create a virtual environment with conda/virtualenv or any other tool you prefer.
 - Clone the repo.
 - Run: `cd <PATH_TO_THE_CLONED_REPO>`.
 - Run: `pip3 install -r requirements.txt` to install necessary packages and path links.
