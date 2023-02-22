@@ -4,7 +4,7 @@ Federated Learning (FL) is an innovative area of machine learning that enables d
 
 ## Accuracy Results goes here ( add the figures from the paper)
 
-![Alt text](relative%20path/to/2clients.png?raw=true "2 Clients")
+![Alt text](FedNets/figures/2clients.png?raw=true "2 Clients")
 
 # Installation
 - Create a virtual environment with conda/virtualenv or any other tool you prefer.
