@@ -4,7 +4,8 @@ Federated Learning (FL) is an innovative area of machine learning that enables d
 
 ## Accuracy Results goes here ( add the figures from the paper)
 
-<img src="figures/2clients.png" width="128"/>
+<img src="figures/2clients.png" width="250" height="250"/>
+</br>
 
 ![Alt text](figures/5clients.png?raw=true "Five Clients")
 ![Alt text](figures/10clients.jpg?raw=true "Ten Clients")
